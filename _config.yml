@@ -107,12 +107,12 @@ author:
   name             : "뭉찌"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**성장하는**우리."
-  location         : "Republic of Korea"
+  location         : "Republic of Korea/대한민국"
   email            : bdh7617@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "bdh7617@naver.com"
+        url : "bdh7617@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
